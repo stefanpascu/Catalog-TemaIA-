@@ -1,0 +1,5 @@
+id,firstName,lastName,gender,birthDate,classroomId
+e94063cc-425c-45da-96f9-4df4ebf88c99,Popescu,Gigel,MALE,1999-10-05,da31900a-ddf4-4570-b6ec-6403e8008f50
+65a9dae8-86a5-48ab-aba7-c2a6980ce2e8,Gogu,Gogut,FEMALE,1999-11-09,da31900a-ddf4-4570-b6ec-6403e8008f50
+a4e4f104-2adf-4e28-8d4c-0c0ed117df7c,Tata,Mare,MALE,1999-06-09,da31900a-ddf4-4570-b6ec-6403e8008f50
+0c21d68c-3d02-4487-960f-adf8432ddbbb,a,a,MALE,2020-11-11,da31900a-ddf4-4570-b6ec-6403e8008f50
